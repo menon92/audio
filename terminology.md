@@ -35,3 +35,7 @@ Lexeme, in this context, refers to the set of all the inflected or alternating f
 ### Dialects
 
 A particular form of a language which is peculiar to a specific region or social group.
+
+## Resources
+
+- [Bengali-Alphabet](https://github.com/lifeparticle/Bengali-Alphabet#phoneme)
